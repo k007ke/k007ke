@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi!%20I'm%20Becky!&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi!%20I'm%20Cathy!&fontSize=90&animation=fadeIn)
 <!--
 <h3 align="center">:여성_기술_전문가: My Github Stats :여성_기술_전문가:</h3>
 <div align="center">
-// ![Becky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cathy-Kim&show_icons=true&theme=buefy)
+// ![Cathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cathy-Kim&show_icons=true&theme=buefy)
 </div>
 -->
 <h3 align="center">:반짝임:Tech Stack </h3>
