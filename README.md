@@ -5,7 +5,7 @@
 // ![Cathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cathy-Kim&show_icons=true&theme=buefy)
 </div>
 -->
-<h3 align="center">:반짝임:Tech Stack </h3>
+<h3 align="center"> Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/WandB-FFBE00?style=flat&logo=weightsandbiases&logoColor=white"/></a>
 </p>
-<h3 align="center">:메모:Studying Now </h3>
+<h3 align="center">Studying Now </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/></a>
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white"/></a>
 </p>
-<h3 align="center">:수화기:Contact Me </h3>
+<h3 align="center"> Contact Me </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/becky-kwon-7467631a6"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/becky-kwon-7467631a6"></a>&nbsp
 <!--
